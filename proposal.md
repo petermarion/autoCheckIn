@@ -6,7 +6,7 @@ autoCheckin
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-A script which will make the attendance check in process easier for my karate studio
+A script which will streamline the attendance check in process for my karate studio
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
