@@ -42,8 +42,8 @@ Not applicable
 
 1. Log into perfectmind with a script
 2. Take pictures of the cards with minimal to no issues with extracting the student's name
-3. Input names into input field and wait to input the next name until the system completes their login (usually takes a few seconds)
-4. Takes lists for ALL karate classes and inputs them into their respective classes in one run instead of manually switching to the next karate class and running the script individually for each class. 
+3. Takes lists for ALL karate classes and inputs them into their respective classes in one run instead of manually switching to the next karate class and running the script individually for each class. 
+4. Input names into input field and wait to input the next name until the system completes their login (usually takes a few seconds)
 5. Provide the user a list of names which FAILED to find a match in the system (sometimes there are discrepancies between names on the attendance cards and names in the system)
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
