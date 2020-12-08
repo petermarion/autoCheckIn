@@ -6,6 +6,8 @@ CIS 1051
 Final Project
 Autocheckin
 
+Demonstration Link: https://www.youtube.com/watch?v=1FYHkfVFb6M&ab_channel=PeterMarion
+
 ##The Problem
 I work at a karate studio which uses paper attendance cards and an online tracking system. The students pull their cards from the box at the beginning of class, we mark them, and then must individually log them all into our online system. This can be tedious, as we average over 100 students per night, the online system is slow, and the earlier we get it done the earlier we can go home after a long day. 
 
